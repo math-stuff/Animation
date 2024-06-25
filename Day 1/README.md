@@ -1,3 +1,4 @@
+All gifs at 12 frames/second and blown up to 8x size. 
 
 # Armand (32x32)
 ![Armand Walking (32 x 32)](https://github.com/math-stuff/Animation/assets/139161552/b93b1a93-f164-4d57-8c9e-a1444408e765)
